@@ -6,7 +6,7 @@
 #include <thread>
 #include <chrono>
 using namespace std;
-
+//CONFIG
 const int MAX_SONGS = 50;
 const int MAX_ADS = 50;
 const int MAX_USERS = 50;
